@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Çağan</h1>
 <h3 align="center">A passionate software developer from Istanbul</h3>
 
+- 🌱 I’m currently learning on **Kotlin**
+
 - 🔭 I’m currently working on **Mobile Application Development**
 
 - 📫 How to reach me **caganbicakci97@gmail.com**
