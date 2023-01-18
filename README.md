@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **iOS Swift**
 
-- 💬 Ask me about **Kotlin, Flutter**
+- 💬 Ask me about **Kotlin & Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
