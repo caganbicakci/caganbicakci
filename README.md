@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Çağan</h1>
-<h3 align="center">Software Engineer from Istanbul</h3>
+<h3 align="center">Software Developer from Istanbul</h3>
 
 
 - 🔭 I’m currently working on **Mobile Application Development**
